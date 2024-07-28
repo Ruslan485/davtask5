@@ -1,4 +1,4 @@
-# Test CRA Project 
+# Test project 
 
 main -  основная ветка; 
 dev - структура проекта; 
